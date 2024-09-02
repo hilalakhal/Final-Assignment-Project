@@ -11,7 +11,7 @@ This is time series problem so need to give more attention in data preprocessing
 Make a machine learning model using SVR algorithm
 Calculate the prediction of trash volume for the next 6 months
 
-Step :
+Step : <br />
 **1. Colecting the Data** <br />
    The data that used in this project is provided by Dinas Lingkungan Hidup dan Kehutanan Provinsi DIY <br />
    The data is clean but need to transform into CSV <br />
