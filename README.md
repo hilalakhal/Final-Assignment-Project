@@ -14,8 +14,8 @@ Calculate the prediction of trash volume for the next 6 months
 Step :
 1. Colecting the Data
    The data that used in this project is provided by Dinas Lingkungan Hidup dan Kehutanan Provinsi DIY
-   The data is clean but need to transform into CSV
-   The amount of data is pretty small, total 54 data only but still continue to proceed
+   /n The data is clean but need to transform into CSV
+   /n The amount of data is pretty small, total 54 data only but still continue to proceed
 
 2. Preprocessing the Data
    Transform the data into CSV files
